@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://wallpapers.com/images/hd/konoha-vqbn95moxvrq5msj.jpg" alt="Profile Background" style="width: 100%; max-width: 100%;">
+  <img src="https://cdn.wallpaper.tn/large/Naruto-Sasuke-Wallpaper-36191.jpg" alt="Profile Background" style="width: 100%; max-width: 100%;">
 </div>
 <br />
 <p align="center">
